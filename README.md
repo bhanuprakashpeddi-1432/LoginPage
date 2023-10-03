@@ -46,9 +46,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-=> Install the server to Run the project (like tomcat..etc)
-=> Make sure that your system has JAVA.
-=> Use the a database (like postgre,mysql..etc)
+=> Install the server to Run the project (like tomcat..etc)<br>
+=> Make sure that your system has JAVA.<br>
+=> Use the a database (like postgre,mysql..etc),<br>
 
 ### Installing
 
